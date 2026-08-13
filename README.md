@@ -39,6 +39,7 @@ Si solo vas a hacer siete cosas, que sean estas. Están ordenadas por impacto.
 | **[06 · Respaldo y continuidad](06-respaldo-y-continuidad.md)** | Regla 3-2-1, cifrado, herencia digital |
 | **[07 · Si ya te pasó (Colombia)](07-si-ya-te-paso.md)** | Rutas de denuncia, conservación de evidencia, contactos oficiales |
 | **[✅ Checklist imprimible](CHECKLIST.md)** | Para marcar mientras avanzas |
+| **[🤝 Cómo contribuir](CONTRIBUTING.md)** | Reporta enlaces rotos o propón herramientas |
 
 ---
 
@@ -91,7 +92,7 @@ Ninguna emergencia real empeora porque te tomes dos minutos para verificar por o
 
 Este material tiene fines **educativos y de concienciación**. Las herramientas listadas son de terceros: revisa sus políticas de privacidad y términos antes de usarlas. La inclusión de una herramienta no constituye respaldo comercial ni garantía de funcionamiento.
 
-Los enlaces se verificaron en agosto de 2026. El panorama cambia rápido: si encuentras algo desactualizado, abre un *issue*.
+Los enlaces se verificaron en agosto de 2026. El panorama cambia rápido: si encuentras un enlace roto, una herramienta que cambió de condiciones o una alternativa mejor, **[repórtalo](../../issues/new)**. Ver [cómo contribuir](CONTRIBUTING.md).
 
 ---
 
