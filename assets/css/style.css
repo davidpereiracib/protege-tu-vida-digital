@@ -1,0 +1,175 @@
+/* Protege tu Vida Digital — SecPro
+   Hoja de estilo del sitio. Paleta alineada con los runbooks de las conferencias. */
+
+:root{
+  /* Identidad SecPro — muestreados del logotipo corporativo */
+  --azul:#122460;      /* azul institucional */
+  --naranja:#D83006;   /* naranja institucional */
+  --azul2:#1E5AA8;     /* azul claro, para enlaces */
+  --azul-osc:#0B1740;
+  --ambar:#B8860B; --verde:#1B7F5A;
+  --tinta:#1A1F2B; --gris:#5A6472; --linea:#DCE3EC;
+  --fondo:#F4F7FB; --papel:#FFFFFF; --code:#0F2038;
+}
+
+*{box-sizing:border-box}
+
+html{-webkit-text-size-adjust:100%}
+
+body{
+  margin:0;
+  min-height:100vh;
+  display:flex;
+  flex-direction:column;
+  background:var(--fondo);
+  color:var(--tinta);
+  font:17px/1.68 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+.wrap{max-width:900px;margin:0 auto;padding:0 22px}
+
+.saltar{position:absolute;left:-9999px;top:0;background:var(--azul);color:#fff;
+  padding:10px 16px;border-radius:0 0 8px 0;z-index:10}
+.saltar:focus{left:0}
+
+/* ---------- cabecera ---------- */
+header.sitio{
+  background:linear-gradient(135deg,var(--azul-osc) 0%,var(--azul) 55%,#1c3a86 100%);
+  color:#fff;
+  border-bottom:3px solid var(--naranja);
+}
+.barra{display:flex;align-items:center;justify-content:space-between;gap:18px;
+  flex-wrap:wrap;padding-top:16px;padding-bottom:16px}
+.marca{display:flex;align-items:center;gap:14px;color:#fff;text-decoration:none}
+.marca img{height:44px;width:auto;display:block;flex:none}
+.marca-txt{padding-left:14px;border-left:1px solid rgba(255,255,255,.28)}
+.marca b{display:block;font-size:16px;letter-spacing:-.2px}
+.marca small{display:block;font-size:12px;opacity:.8;font-weight:400;margin-top:1px}
+header.sitio nav{display:flex;gap:6px;flex-wrap:wrap}
+header.sitio nav a{
+  color:#fff;text-decoration:none;font-size:13.5px;font-weight:600;
+  padding:6px 13px;border-radius:999px;
+  background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);
+  transition:.14s;
+}
+header.sitio nav a:hover{background:rgba(255,255,255,.24)}
+
+/* ---------- contenido ---------- */
+.contenido{
+  background:var(--papel);
+  border:1px solid var(--linea);
+  border-radius:14px;
+  padding:34px 40px 46px;
+  margin:28px auto 44px;
+  box-shadow:0 1px 3px rgba(11,46,99,.06);
+}
+
+.contenido h1{
+  font-size:34px;line-height:1.18;letter-spacing:-.7px;font-weight:800;
+  margin:0 0 20px;color:var(--azul);
+}
+.contenido h2{
+  font-size:24px;line-height:1.26;letter-spacing:-.35px;font-weight:800;
+  margin:42px 0 14px;padding-bottom:9px;border-bottom:2px solid var(--linea);
+}
+.contenido h3{font-size:18.5px;margin:30px 0 10px;letter-spacing:-.2px;color:#243B5E}
+.contenido h4{font-size:15.5px;margin:24px 0 8px;color:var(--gris);
+  text-transform:uppercase;letter-spacing:.09em}
+.contenido > h1:first-child{margin-top:0}
+
+p{margin:0 0 16px}
+a{color:var(--azul2);text-decoration:none;font-weight:500}
+a:hover{text-decoration:underline}
+
+ul,ol{margin:0 0 16px;padding-left:24px}
+li{margin:7px 0}
+li > ul,li > ol{margin:7px 0 0}
+
+hr{border:0;border-top:1px solid var(--linea);margin:36px 0}
+
+/* Acotado al contenido: si se aplica global, pisa el blanco de la cabecera y del pie. */
+.contenido strong,.contenido b{font-weight:700;color:#111826}
+
+/* ---------- citas ---------- */
+blockquote{
+  margin:22px 0;padding:15px 20px;
+  background:#F2F6FC;border-left:4px solid var(--azul2);
+  border-radius:0 9px 9px 0;color:#243B5E;
+}
+blockquote > :last-child{margin-bottom:0}
+blockquote h2,blockquote h3{
+  margin:0 0 10px;border:0;padding:0;font-size:18px;color:#8A2317;
+}
+/* La cita con encabezado se usa para las reglas duras: va en rojo. */
+blockquote:has(h2),blockquote:has(h3){
+  background:#FDECEA;border-left-color:var(--naranja);color:#5B2018;
+}
+
+/* ---------- tablas ---------- */
+.contenido table{
+  width:100%;border-collapse:collapse;margin:18px 0 22px;font-size:15px;
+}
+.contenido th{
+  background:var(--azul);color:#fff;text-align:left;
+  padding:11px 14px;font-size:12px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.07em;white-space:nowrap;
+}
+.contenido td{
+  padding:11px 14px;border-top:1px solid var(--linea);vertical-align:top;
+}
+.contenido tbody tr:nth-child(even) td{background:#FAFBFD}
+.contenido td a{font-weight:600;word-break:break-word}
+
+/* ---------- código ---------- */
+code{
+  font:14px/1.45 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  background:#EDF1F7;padding:2px 6px;border-radius:4px;color:#123a7d;
+  word-break:break-word;
+}
+pre{
+  background:var(--code);color:#E8EEF7;padding:16px 18px;border-radius:10px;
+  overflow-x:auto;margin:18px 0;border:1px solid #1d3a5f;
+  font:14px/1.62 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+pre code{background:none;padding:0;color:inherit;font-size:inherit}
+
+/* ---------- pie ---------- */
+footer.sitio{
+  background:var(--azul-osc);color:#AEBBCE;margin-top:auto;
+  border-top:3px solid var(--naranja);
+  font-size:13.5px;line-height:1.6;
+}
+.pie{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;
+  padding-top:26px;padding-bottom:30px}
+.pie-marca{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.pie-marca img{height:38px;width:auto;display:block;opacity:.92}
+footer.sitio a{color:#8FB6E8}
+
+/* ---------- responsive ---------- */
+@media (max-width:680px){
+  body{font-size:16px}
+  /* En pantallas estrechas la tabla se desplaza en horizontal en vez de aplastarse. */
+  .contenido table{display:block;overflow-x:auto;white-space:nowrap;font-size:14px}
+  .contenido td,.contenido th{white-space:normal;min-width:120px}
+  .contenido{padding:24px 20px 34px;border-radius:0;border-left:0;border-right:0;margin:0 -22px 0}
+  .contenido h1{font-size:26px}
+  .contenido h2{font-size:20px}
+  .barra{padding-top:13px;padding-bottom:13px}
+  .marca b{font-size:15px}
+}
+
+/* ---------- impresión ---------- */
+@media print{
+  body{background:#fff;font-size:11.5pt}
+  header.sitio,footer.sitio,.saltar{display:none}
+  .contenido{border:0;box-shadow:none;padding:0;margin:0;max-width:100%}
+  .contenido table{display:table;font-size:10pt}
+  .contenido th{background:#EDF1F7!important;color:#1A1F2B!important;
+    -webkit-print-color-adjust:exact;print-color-adjust:exact}
+  pre{background:#F3F5F9;color:#14203a;border-color:#ccd6e4}
+  a{color:#123a7d}
+  a[href^="http"]::after{content:" (" attr(href) ")";font-size:8.5pt;color:#5A6472;word-break:break-all}
+  h2,h3{break-after:avoid}
+  table,blockquote{break-inside:avoid}
+}

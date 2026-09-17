@@ -95,8 +95,9 @@ La IA permite manipular o generar en tiempo real el rostro, la voz, los gestos y
 
 | Herramienta | Analiza | Enfoque | Enlace |
 |---|---|---|---|
-| **Deepware Scanner** | 🎥 Video | Manipulación facial | https://scanner.deepware.ai/ |
 | **DeepFake-O-Meter** | 📷 Imagen · 🎥 Video · 🎙 Audio | Plataforma académica que compara varios algoritmos | https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/ |
+| **AI or Not** | 📷 Imagen · 🎙 Audio | Rápida y sencilla, pensada para uso no técnico | https://www.aiornot.com |
+| **Hive · AI Detection** | 📷 Imagen · 🎥 Video · 📝 Texto | Demostración pública del detector comercial | https://hivemoderation.com/ai-generated-content-detection |
 | **Resemble Detect** | 🎙 Audio · 📷 Imagen · 🎥 Video | Especialmente fuerte en clonación de voz | https://www.resemble.ai/detect/ |
 | **Reality Defender** | 🎙 Audio · 📷 Imagen · 🎥 Video | Solución profesional; no pensada para consumidor | https://www.realitydefender.com/ |
 
@@ -134,6 +135,19 @@ El futuro no es detectar lo falso, es **poder probar lo auténtico**.
 Cuando una solicitud sea inusual o sensible, **confirma la identidad por un segundo canal que tú ya conozcas**. No por el que te contactaron.
 
 Cuelga y devuelve la llamada al número que tú tienes guardado. Nunca al número entrante.
+
+---
+
+## Para profundizar
+
+Este capítulo cubre **cómo te engañan**. Los capítulos de fraude cubren **cómo reconocerlo y verificarlo**:
+
+| Capítulo | Qué añade sobre lo que acabas de leer |
+|---|---|
+| **[08 · Anatomía del fraude](08-anatomia-del-fraude.md)** | Las ocho historias que te van a contar, y por qué buscar errores dejó de funcionar |
+| **[09 · Los nuevos disfraces](09-los-nuevos-disfraces.md)** | Quishing en detalle, **ClickFix**, sitios clonados y typosquatting |
+| **[10 · Cuando el MFA no basta](10-cuando-el-mfa-no-basta.md)** | Por qué el segundo factor a veces no alcanza, y qué factor sí resiste |
+| **[12 · Verificar antes de confiar](12-verificar-antes-de-confiar.md)** | El kit completo de herramientas, ordenado por situación |
 
 ---
 

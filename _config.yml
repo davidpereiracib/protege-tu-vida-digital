@@ -1,0 +1,51 @@
+title: Protege tu Vida Digital
+description: >-
+  Herramientas concretas para proteger tu identidad digital y para reconocer y
+  verificar fraudes en Internet. Material de apoyo de los Focus Group de David Pereira — SecPro.
+url: https://protege.secpro.co
+lang: es
+
+# Plugins incluidos por defecto en GitHub Pages.
+# - optional-front-matter: renderiza los .md aunque no tengan cabecera YAML
+# - relative-links: convierte los enlaces .md entre capitulos en URLs validas del sitio
+# - titles-from-headings: usa el primer H1 como <title> de la pagina
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: false
+
+optional_front_matter:
+  remove_originals: true
+
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+# URLs de directorio (/fraudes/ en vez de /fraudes.html).
+# No dependen de que el servidor adivine la extension: siempre hay un index.html.
+# El orden importa: la ultima regla que coincide es la que gana.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      permalink: "/:basename/"
+  - scope:
+      path: "README.md"
+    values:
+      permalink: "/indice/"
+  - scope:
+      path: "index.md"
+    values:
+      permalink: "/"
+
+exclude:
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore

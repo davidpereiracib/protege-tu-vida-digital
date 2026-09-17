@@ -1,11 +1,17 @@
 # Protege tu Vida Digital
 
 > Herramientas recomendadas para cada acción de ciberseguridad personal.
-> Material de apoyo del Focus Group **"Cómo administrar y proteger tu vida digital a nivel personal"**.
+> Material de apoyo de los Focus Group **"Cómo administrar y proteger tu vida digital a nivel personal"** y **"Cómo identificar fraudes en Internet"**.
+
+**🌐 También disponible como sitio web: [protege.secpro.co](https://protege.secpro.co)**
 
 Tu identidad ya no necesita ser hackeada. Hoy se construye —y se roba— a partir de piezas que ya están repartidas por el mundo digital: tu nombre, tu rostro, tu voz, tu ubicación, tus dispositivos y hasta tus conversaciones con una IA.
 
-Este repositorio recoge **las herramientas concretas** para cada una de las acciones que vimos en la sesión. Todas son de acceso público. Ninguna requiere conocimientos técnicos avanzados.
+Este repositorio recoge **las herramientas concretas** para cada una de las acciones que vimos en las sesiones. Todas son de acceso público. Ninguna requiere conocimientos técnicos avanzados.
+
+> ### 🛡️ ¿Vienes del Focus Group sobre fraudes?
+>
+> Ve directo al **[Kit antifraude](fraudes.md)**: las seis acciones de esta semana y las herramientas para verificar un enlace, un perfil, una empresa o un comprobante antes de decidir.
 
 ---
 
@@ -43,6 +49,29 @@ Si solo vas a hacer siete cosas, que sean estas. Están ordenadas por impacto.
 
 ---
 
+## 🛡️ Reconocer y verificar fraudes
+
+Del Focus Group **"Cómo identificar fraudes en Internet"**. Si los capítulos anteriores tratan de *cerrar puertas*, estos tratan de *reconocer a quien toca*.
+
+| Guía | Qué encontrarás |
+|---|---|
+| **[🛡️ Kit antifraude](fraudes.md)** | **Empieza aquí.** Las 6 acciones de esta semana y la consulta rápida por situación |
+| **[08 · Anatomía del fraude](08-anatomia-del-fraude.md)** | Qué busca el atacante, por dónde entra, las ocho historias, por qué ya no sirve "buscar errores" |
+| **[09 · Los nuevos disfraces](09-los-nuevos-disfraces.md)** | Quishing, **ClickFix**, sitios clonados, el CAPTCHA como señuelo, cadenas multicanal |
+| **[10 · Cuando el MFA no basta](10-cuando-el-mfa-no-basta.md)** | Robo de sesión y cookies, AITM, fatiga MFA, consent phishing, el código que nunca se comparte |
+| **[11 · El fraude que encuentras tú](11-el-fraude-que-encuentras.md)** | Malvertising, buscadores, perfiles falsos, falso soporte técnico, marketplaces |
+| **[12 · Verificar antes de confiar](12-verificar-antes-de-confiar.md)** | **El kit completo de herramientas** y la cadena de verificación paso a paso |
+
+### Las 3 ideas que más cuestan de aceptar
+
+| Idea | Por qué importa |
+|---|---|
+| **Cambiar la contraseña no expulsa a quien ya entró** | Las sesiones abiertas sobreviven al cambio. Hay que cerrarlas aparte — [cómo](10-cuando-el-mfa-no-basta.md) |
+| **Una verificación que te pide ejecutar un comando *es* el ataque** | Es la técnica ClickFix, y no hay antivirus que la detenga porque la ejecutas tú — [cómo se ve](09-los-nuevos-disfraces.md) |
+| **Una imagen de una evidencia no es la evidencia** | Comprobantes, chats y certificados se editan en segundos — [qué mirar en su lugar](12-verificar-antes-de-confiar.md) |
+
+---
+
 ## Las 15 herramientas más útiles
 
 Si quieres una lista corta para empezar:
@@ -58,7 +87,7 @@ Si quieres una lista corta para empezar:
 | [urlscan.io](https://urlscan.io) | Analizar un enlace sospechoso sin abrirlo | Gratis |
 | [VirusTotal](https://www.virustotal.com/gui/home/url) | Segunda opinión sobre enlaces y archivos | Gratis |
 | [Content Credentials](https://contentcredentials.org/verify) | ¿Esta imagen fue generada con IA? | Gratis |
-| [Deepware Scanner](https://scanner.deepware.ai/) | Detección de deepfake en video | Gratis |
+| [DeepFake-O-Meter](https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/) | Detección de deepfake en imagen, video y audio | Gratis |
 | [SimpleLogin](https://simplelogin.io) | Alias de correo desechables | Gratis / de pago |
 | [NextDNS](https://nextdns.io) | Ver y bloquear a dónde llama tu teléfono | Gratis hasta cierto uso |
 | [Cryptomator](https://cryptomator.org) | Cifrar archivos antes de subirlos a la nube | Gratis |
@@ -92,7 +121,7 @@ Ninguna emergencia real empeora porque te tomes dos minutos para verificar por o
 
 Este material tiene fines **educativos y de concienciación**. Las herramientas listadas son de terceros: revisa sus políticas de privacidad y términos antes de usarlas. La inclusión de una herramienta no constituye respaldo comercial ni garantía de funcionamiento.
 
-Los enlaces se verificaron en agosto de 2026. El panorama cambia rápido: si encuentras un enlace roto, una herramienta que cambió de condiciones o una alternativa mejor, **[repórtalo](../../issues/new)**. Ver [cómo contribuir](CONTRIBUTING.md).
+Los enlaces se verificaron en **septiembre de 2026**. El panorama cambia rápido: si encuentras un enlace roto, una herramienta que cambió de condiciones o una alternativa mejor, **[repórtalo](https://github.com/davidpereiracib/protege-tu-vida-digital/issues/new)**. Ver [cómo contribuir](CONTRIBUTING.md).
 
 ---
 
@@ -104,7 +133,7 @@ Autor de *Ciberseguridad al Alcance de Todos* y *Cyber Threat Hunters Handbook*
 
 📧 info@secpro.co
 
-Material de apoyo del Focus Group **"Cómo administrar y proteger tu vida digital a nivel personal"**.
+Material de apoyo de los Focus Group **"Cómo administrar y proteger tu vida digital a nivel personal"** y **"Cómo identificar fraudes en Internet"**.
 
 ---
 

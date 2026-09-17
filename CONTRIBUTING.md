@@ -12,7 +12,7 @@ Este repositorio nació como material de apoyo de un Focus Group, pero el panora
 
 Es la contribución más valiosa y la más fácil. Si haces clic en algo y no funciona, repórtalo.
 
-> Abre un **[issue](../../issues/new)** indicando en qué archivo estaba y qué te apareció.
+> Abre un **[issue](https://github.com/davidpereiracib/protege-tu-vida-digital/issues/new)** indicando en qué archivo estaba y qué te apareció.
 
 ### 💰 Una herramienta que cambió de condiciones
 
@@ -34,7 +34,7 @@ Si una explicación te resultó confusa, probablemente le pasó a más gente. De
 
 ## Cómo hacerlo
 
-**Si no usas GitHub a diario:** abre un [issue](../../issues/new) y escribe en lenguaje normal lo que encontraste. No hace falta formato especial.
+**Si no usas GitHub a diario:** abre un [issue](https://github.com/davidpereiracib/protege-tu-vida-digital/issues/new) y escribe en lenguaje normal lo que encontraste. No hace falta formato especial.
 
 **Si te manejas con Git:** haz un fork, corrige y abre un pull request. Un cambio por PR, para que sea fácil de revisar.
 

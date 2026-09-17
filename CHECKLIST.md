@@ -86,6 +86,22 @@
 
 ---
 
+## 🛡️ Reconocer fraudes
+
+- [ ] Sé **leer un dominio de derecha a izquierda** y lo practiqué con el [quiz de Google](https://phishingquiz.withgoogle.com)
+- [ ] Guardé en marcadores los sitios donde muevo dinero, y **entro solo por ahí o por la app** — nunca por el buscador
+- [ ] Tengo claro que **ninguna verificación humana legítima** me pide pegar un comando ni presionar `Windows + R`
+- [ ] Sé que **el candado no dice de quién es el sitio**, solo que la conexión va cifrada
+- [ ] **Nunca dicto un código** de seis dígitos a alguien que me contactó
+- [ ] Sé que una solicitud de MFA que yo no inicié **es una alarma**, no una molestia
+- [ ] Antes de escanear un QR, **leo la dirección que muestra la cámara**
+- [ ] Sé que un comprobante o una captura **no son evidencia**: la prueba está en mi propia cuenta
+- [ ] Antes de comprar a un desconocido, verifico la empresa en [RUES](https://www.rues.org.co)
+- [ ] Si me ofrecen inversiones, confirmo en la [Superfinanciera](https://www.superfinanciera.gov.co)
+- [ ] Tengo a mano el [kit de verificación](12-verificar-antes-de-confiar.md#-el-kit-antifraude)
+
+---
+
 ## 🗓️ Dos veces al año
 
 - [ ] Revisar aplicaciones conectadas y revocar las que sobren
