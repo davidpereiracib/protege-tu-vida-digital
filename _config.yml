@@ -27,17 +27,17 @@ titles_from_headings:
 
 # URLs de directorio (/fraudes/ en vez de /fraudes.html).
 # No dependen de que el servidor adivine la extension: siempre hay un index.html.
-# El orden importa: la ultima regla que coincide es la que gana.
+#
+# OJO: jekyll-optional-front-matter omite a proposito README.md y CONTRIBUTING.md
+# por considerarlos archivos meta del repositorio, asi que NO se generan como paginas.
+# Por eso el sitio usa index.md como portada y los capitulos enlazan a index.md,
+# nunca a README.md. El README es solo la cara del repositorio en GitHub.
 defaults:
   - scope:
       path: ""
     values:
       layout: default
       permalink: "/:basename/"
-  - scope:
-      path: "README.md"
-    values:
-      permalink: "/indice/"
   - scope:
       path: "index.md"
     values:

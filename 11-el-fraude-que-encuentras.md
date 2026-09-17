@@ -149,4 +149,4 @@ Cuando la conversación salte de canal, sal tú también — pero hacia un canal
 
 ---
 
-[← Anterior: Cuando el MFA no basta](10-cuando-el-mfa-no-basta.md) · [Volver al índice](README.md) · [Siguiente: Verificar antes de confiar →](12-verificar-antes-de-confiar.md)
+[← Anterior: Cuando el MFA no basta](10-cuando-el-mfa-no-basta.md) · [Volver al índice](index.md) · [Siguiente: Verificar antes de confiar →](12-verificar-antes-de-confiar.md)

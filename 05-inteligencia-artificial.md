@@ -113,4 +113,4 @@ Cuando necesites usar IA con información sensible, usa las herramientas aprobad
 
 ---
 
-[← Anterior: Privacidad y rastreo](04-privacidad-y-rastreo.md) · [Volver al índice](README.md) · [Siguiente: Respaldo y continuidad →](06-respaldo-y-continuidad.md)
+[← Anterior: Privacidad y rastreo](04-privacidad-y-rastreo.md) · [Volver al índice](index.md) · [Siguiente: Respaldo y continuidad →](06-respaldo-y-continuidad.md)

@@ -139,4 +139,4 @@ Aplicaciones abandonadas, cuentas de tiendas, foros y juegos antiguos, servicios
 
 ---
 
-[← Anterior: Tu teléfono](03-tu-telefono.md) · [Volver al índice](README.md) · [Siguiente: Inteligencia artificial →](05-inteligencia-artificial.md)
+[← Anterior: Tu teléfono](03-tu-telefono.md) · [Volver al índice](index.md) · [Siguiente: Inteligencia artificial →](05-inteligencia-artificial.md)

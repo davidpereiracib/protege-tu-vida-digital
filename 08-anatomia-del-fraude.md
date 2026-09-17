@@ -140,4 +140,4 @@ Reconocer es automático y ocurre en un segundo. Verificar es deliberado y toma 
 
 ---
 
-[← Anterior: Si ya te pasó](07-si-ya-te-paso.md) · [Volver al índice](README.md) · [Siguiente: Los nuevos disfraces →](09-los-nuevos-disfraces.md)
+[← Anterior: Si ya te pasó](07-si-ya-te-paso.md) · [Volver al índice](index.md) · [Siguiente: Los nuevos disfraces →](09-los-nuevos-disfraces.md)

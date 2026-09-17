@@ -175,4 +175,4 @@ Analizar cada pieza por separado esconde el fraude. **Reconstruir la cadena comp
 
 ---
 
-[← Anterior: Anatomía del fraude](08-anatomia-del-fraude.md) · [Volver al índice](README.md) · [Siguiente: Cuando el MFA no basta →](10-cuando-el-mfa-no-basta.md)
+[← Anterior: Anatomía del fraude](08-anatomia-del-fraude.md) · [Volver al índice](index.md) · [Siguiente: Cuando el MFA no basta →](10-cuando-el-mfa-no-basta.md)

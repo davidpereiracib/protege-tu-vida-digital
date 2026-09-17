@@ -84,4 +84,4 @@ No es una señal de descuido. Estos ataques los diseñan equipos profesionales, 
 
 ---
 
-[← Ir al índice completo](README.md) · [Checklist imprimible](CHECKLIST.md) · [Reportar un enlace roto](https://github.com/davidpereiracib/protege-tu-vida-digital/issues/new)
+[← Ir al índice completo](index.md) · [Checklist imprimible](CHECKLIST.md) · [Reportar un enlace roto](https://github.com/davidpereiracib/protege-tu-vida-digital/issues/new)

@@ -91,4 +91,4 @@ No todos necesitan lo mismo. Un médico no tiene el mismo perfil de riesgo que u
 
 ---
 
-[← Anterior: Inteligencia artificial](05-inteligencia-artificial.md) · [Volver al índice](README.md) · [Siguiente: Si ya te pasó →](07-si-ya-te-paso.md)
+[← Anterior: Inteligencia artificial](05-inteligencia-artificial.md) · [Volver al índice](index.md) · [Siguiente: Si ya te pasó →](07-si-ya-te-paso.md)

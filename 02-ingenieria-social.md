@@ -151,4 +151,4 @@ Este capítulo cubre **cómo te engañan**. Los capítulos de fraude cubren **c�
 
 ---
 
-[← Anterior: Cuentas e identidad](01-cuentas-e-identidad.md) · [Volver al índice](README.md) · [Siguiente: Tu teléfono →](03-tu-telefono.md)
+[← Anterior: Cuentas e identidad](01-cuentas-e-identidad.md) · [Volver al índice](index.md) · [Siguiente: Tu teléfono →](03-tu-telefono.md)

@@ -92,4 +92,4 @@ Denunciar sirve. Aunque sientas que no se va a recuperar nada, el reporte alimen
 
 ---
 
-[← Anterior: Respaldo y continuidad](06-respaldo-y-continuidad.md) · [Volver al índice](README.md) · [Siguiente: Anatomía del fraude →](08-anatomia-del-fraude.md)
+[← Anterior: Respaldo y continuidad](06-respaldo-y-continuidad.md) · [Volver al índice](index.md) · [Siguiente: Anatomía del fraude →](08-anatomia-del-fraude.md)

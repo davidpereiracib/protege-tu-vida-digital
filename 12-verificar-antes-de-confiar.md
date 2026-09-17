@@ -204,4 +204,4 @@ Todo esto está en el [checklist imprimible](CHECKLIST.md).
 
 ---
 
-[← Anterior: El fraude que encuentras tú](11-el-fraude-que-encuentras.md) · [Volver al índice](README.md) · [Checklist →](CHECKLIST.md)
+[← Anterior: El fraude que encuentras tú](11-el-fraude-que-encuentras.md) · [Volver al índice](index.md) · [Checklist →](CHECKLIST.md)

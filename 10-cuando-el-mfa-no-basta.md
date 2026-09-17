@@ -160,4 +160,4 @@ Ningún banco, ninguna empresa y ningún soporte técnico necesita que le leas u
 
 ---
 
-[← Anterior: Los nuevos disfraces](09-los-nuevos-disfraces.md) · [Volver al índice](README.md) · [Siguiente: El fraude que encuentras tú →](11-el-fraude-que-encuentras.md)
+[← Anterior: Los nuevos disfraces](09-los-nuevos-disfraces.md) · [Volver al índice](index.md) · [Siguiente: El fraude que encuentras tú →](11-el-fraude-que-encuentras.md)

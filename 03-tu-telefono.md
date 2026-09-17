@@ -107,4 +107,4 @@ Cada minuto cuenta. Actúa **en este orden**:
 
 ---
 
-[← Anterior: Ingeniería social](02-ingenieria-social.md) · [Volver al índice](README.md) · [Siguiente: Privacidad y rastreo →](04-privacidad-y-rastreo.md)
+[← Anterior: Ingeniería social](02-ingenieria-social.md) · [Volver al índice](index.md) · [Siguiente: Privacidad y rastreo →](04-privacidad-y-rastreo.md)

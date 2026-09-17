@@ -144,4 +144,4 @@ Ver qué información tuya circula ya es parte de proteger tu identidad.
 
 ---
 
-[← Volver al índice](README.md) · [Siguiente: Ingeniería social e IA →](02-ingenieria-social.md)
+[← Volver al índice](index.md) · [Siguiente: Ingeniería social e IA →](02-ingenieria-social.md)

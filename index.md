@@ -13,7 +13,7 @@ Este sitio recoge **las herramientas concretas** de los Focus Group de David Per
 | Vienes de… | Empieza por |
 |---|---|
 | 🛡️ **"Cómo identificar fraudes en Internet"** | **[Kit antifraude](fraudes.md)** — las seis acciones de esta semana y las herramientas de verificación |
-| 🔐 **"Cómo administrar y proteger tu vida digital"** | **[Índice completo](README.md)** — las siete acciones y los capítulos de higiene digital |
+| 🔐 **"Cómo administrar y proteger tu vida digital"** | **[Los capítulos de higiene digital](#todo-el-contenido)** — cuentas, teléfono, privacidad, IA y respaldo |
 | 🤷 **Ninguno de los dos** | Busca tu correo en **[Have I Been Pwned](https://haveibeenpwned.com)**. Toma quince segundos y te dice si tus credenciales ya circulan |
 
 ---
@@ -47,7 +47,7 @@ Este sitio recoge **las herramientas concretas** de los Focus Group de David Per
 |---|---|
 | **[07 · Si ya te pasó (Colombia)](07-si-ya-te-paso.md)** | Rutas de denuncia, conservación de evidencia, contactos oficiales |
 | **[✅ Checklist imprimible](CHECKLIST.md)** | Para marcar mientras avanzas |
-| **[🤝 Cómo contribuir](CONTRIBUTING.md)** | Reporta enlaces rotos o propón herramientas |
+| **[🤝 Cómo contribuir](https://github.com/davidpereiracib/protege-tu-vida-digital/blob/main/CONTRIBUTING.md)** | Reporta enlaces rotos o propón herramientas |
 
 ---
 
