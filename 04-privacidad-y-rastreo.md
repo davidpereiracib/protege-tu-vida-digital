@@ -140,3 +140,14 @@ Aplicaciones abandonadas, cuentas de tiendas, foros y juegos antiguos, servicios
 ---
 
 [← Anterior: Tu teléfono](03-tu-telefono.md) · [Volver al índice](index.md) · [Siguiente: Inteligencia artificial →](05-inteligencia-artificial.md)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davidpereiracib/protege-tu-vida-digital/main/assets/img/secpro-color.png" alt="SecPro" width="150"><br>
+  <sub><b>© 2026 David Pereira · SecPro — Security Professionals.</b><br>
+  Material educativo de concienciación. Publicado bajo licencia
+  <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a>:
+  puedes compartirlo y adaptarlo citando la fuente.<br>
+  <a href="https://secpro.co">secpro.co</a> · info@secpro.co</sub>
+</p>

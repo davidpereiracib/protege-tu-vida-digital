@@ -70,3 +70,14 @@ Este material está orientado a que **cada quien proteja su propia vida digital*
 Las contribuciones se publican bajo la misma licencia del repositorio, [CC BY 4.0](LICENSE).
 
 Gracias por ayudar a que esto le sirva a más gente.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davidpereiracib/protege-tu-vida-digital/main/assets/img/secpro-color.png" alt="SecPro" width="150"><br>
+  <sub><b>© 2026 David Pereira · SecPro — Security Professionals.</b><br>
+  Material educativo de concienciación. Publicado bajo licencia
+  <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a>:
+  puedes compartirlo y adaptarlo citando la fuente.<br>
+  <a href="https://secpro.co">secpro.co</a> · info@secpro.co</sub>
+</p>

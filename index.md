@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davidpereiracib/protege-tu-vida-digital/main/assets/img/secpro-color.png" alt="SecPro — Security Professionals" width="240">
+</p>
+
 # Protege tu Vida Digital
 
 > Herramientas concretas para cada acción de seguridad personal, y el método para reconocer y verificar un fraude antes de decidir.
@@ -68,3 +72,14 @@ Material **educativo y de concienciación**. Las herramientas listadas son de te
 El panorama cambia rápido. Si encuentras un enlace roto o una alternativa mejor, [repórtalo](https://github.com/davidpereiracib/protege-tu-vida-digital/issues/new).
 
 **David Pereira** — CEO de SecPro · Investigador y consultor, +29 años · 📧 info@secpro.co
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davidpereiracib/protege-tu-vida-digital/main/assets/img/secpro-color.png" alt="SecPro" width="150"><br>
+  <sub><b>© 2026 David Pereira · SecPro — Security Professionals.</b><br>
+  Material educativo de concienciación. Publicado bajo licencia
+  <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a>:
+  puedes compartirlo y adaptarlo citando la fuente.<br>
+  <a href="https://secpro.co">secpro.co</a> · info@secpro.co</sub>
+</p>
